@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.env
+build
+!.idea/
+screenshot-testing/report
+.vscode
+coverage
+obsolete
